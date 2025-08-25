@@ -33,6 +33,6 @@
 
 - Real-time filtering logic
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 - Inspired by Dave Gray's excellent React tutorial series

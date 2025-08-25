@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "homepage": "https://aribeirodev.github.io/todo-react",
+  "homepage": "https://aribeirodev.github.io/react-practice",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
