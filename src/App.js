@@ -7,7 +7,7 @@ import { useState } from "react";
 
 function App() {
   const [tasks, setTasks] = useState(
-    JSON.parse(localStorage.getItem("todoList"))
+    JSON.parse(localStorage.getItem("todoList")) || []
   );
   const [newTask, setNewTask] = useState("");
   const [search, setSearch] = useState("");
