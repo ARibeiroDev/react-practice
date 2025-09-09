@@ -1,38 +1,48 @@
 # React To-Do List App 📝
 
-🛠️ This project was built while following [Dave Gray's React tutorial](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp). I adapted the concept from a grocery list to a personal to-do list and made small customizations to apply the concepts learned.
+This project was built following Dave Gray’s React tutorial step-by-step. I adapted the concept slightly by renaming it from a grocery list to a personal to-do list and made minor customizations.
+
+This app serves as an educational practice to reinforce core React concepts such as state management, props, and component structure.
+
+🔗 [Live Site](https://aribeirodev.github.io/react-practice/)
+
+---
 
 ## 🚀 Features
 
-- ✅ Add tasks
-- 🗂️ Search/filter tasks in real time as you type
+- ✅ Add and remove tasks
 - ✔️ Mark tasks as completed
-- ❌ Delete individual tasks
-- 💾 Data is saved in `localStorage` so it persists between sessions
+- 🔍 Real-time search and filtering
+- 💾 Persistent state with `localStorage`
 
-## 🛠️ Built With
+---
 
-- React
+## 🧠 What I Learned
+
+- React fundamentals: `useState`, props, component design
+- State management + prop drilling
+- Controlled form inputs
+- Persisting app state using localStorage
+- Building real-time search UX
+
+---
+
+## 🛠️ Technologies Used
+
+- React (Functional Components)
 - JSX
-- useState hook
-- Component-based architecture
-- Props and prop drilling
-- Browser `localStorage`
+- useState Hook
+- LocalStorage API
 
-## 🧠 Lessons Learned
-
-# This project helped reinforce core React concepts including:
-
-- Functional components and hooks (useState)
-
-- State lifting and prop drilling
-
-- Managing side effects (like syncing with localStorage)
-
-- Controlled input fields
-
-- Real-time filtering logic
+---
 
 ## 🙏 Acknowledgements
 
-- Inspired by Dave Gray's excellent React tutorial series
+Inspired by [Dave Gray's React tutorial](https://youtu.be/RVFAyFWO4go?si=H4wXPDcBHzlKhJNU)
+
+---
+
+## 📁 Project Status
+
+✅ Complete  
+📌 Beginner React practice project
